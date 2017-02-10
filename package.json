@@ -1,0 +1,21 @@
+{
+  "name": "Twitch-Bot-Template",
+  "description": "Starting point for your Twitch Bot",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "Rafal Lach",
+      "email": "rafal.lach99@gmail.com",
+      "web": "rafallach.pl"
+    }
+  ],
+  "dependencies": {
+    "tmi.js": "latest"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/rafallach/twitch-bot-template.git"
+    }
+  ]
+}
